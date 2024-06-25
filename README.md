@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaabil Sekali</h1>
-<h3 align="center">I am a professional film and TV actor and a Data Science student, passionate about data analysis and visualization.</h3>
+<h3 align="center">I am a Data Science student, passionate about data analysis and visualization.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
