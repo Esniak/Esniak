@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaabil Sekali</h1>
 <h3 align="center">I am a Data Science student, passionate about data analysis and visualization.</h3>
 
-- 🌱 Estoy aprendiendo Data Science **machine learning, deep learning,**
+- 🌱 Estoy aprendiendo Data Science **machine learning, deep learning**
 
-- 💬 Puedes preguntarme sobre **python, SQL, MongoDB, Pandas, Numpy,**
+- 💬 Puedes preguntarme sobre **python, SQL, MongoDB, Pandas, Numpy**
 
 - 📫 Cómo contactarme **kaabilse@gmail.com**
 
