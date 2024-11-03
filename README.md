@@ -3,6 +3,8 @@
 
 - 🔭 He finalizado este Proyecto [EDA_amazon](https://github.com/Esniak/-EDA-Amazon-Sales)
 
+- ![Metrica RL modelo robusto](https://drive.google.com/uc?export=view&id=1erQGjtuLkpz7_Qz93ne0rDzNqiGm6yfM)
+
 - 🔭 He finalizado este Proyecto [SQL-google-colab-Formula1](https://github.com/Esniak/SQL-google-colab-Formula1)
 
 - 🌱 En este momento estoy aprendiendo **deep learning, Natural Language Processing, Open CV**
