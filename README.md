@@ -9,7 +9,7 @@
 
 - 🌱 En este momento estoy aprendiendo **deep learning, Natural Language Processing, Open CV**
 
-- 💬 Puedes preguntarme sobre **python, SQL, MongoDB, machine learning,**
+- 💬 Puedes preguntarme sobre **python, SQL, MongoDB, machine learning y Visualizacion de Datos**
 
 - 📫 Cómo contactarme **kaabilse@gmail.com**
 
