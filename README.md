@@ -3,7 +3,7 @@
 
 - 🔭 He finalizado este Proyecto [EDA_amazon](https://github.com/Esniak/-EDA-Amazon-Sales)
 
-- - 🔭 He finalizado este Proyecto [SQL-google-colab-Formula1](https://github.com/Esniak/SQL-google-colab-Formula1)
+- 🔭 He finalizado este Proyecto [SQL-google-colab-Formula1](https://github.com/Esniak/SQL-google-colab-Formula1)
 
 - 🌱 En este momento estoy aprendiendo **deep learning, Natural Language Processing, Open CV**
 
