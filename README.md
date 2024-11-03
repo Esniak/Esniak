@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Soy Kaabil Sekali</h1>
-<h3 align="center">He finalizado mi formación: Ciencia de Datos y IA. Empezando mi carrera como analista de datos junior</h3>
+<h3 align="center">He finalizado mi formación: Ciencia de Datos y IA. Empezando mi carrera como Analista de Datos Junior</h3>
 
 - 🔭 He finalizado este Proyecto [EDA_amazon](https://github.com/Esniak/-EDA-Amazon-Sales)
 
