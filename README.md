@@ -3,7 +3,7 @@
 
 - 🔭 He finalizado este Proyecto [EDA_amazon](https://github.com/Esniak/-EDA-Amazon-Sales)
 
-- ![Metrica RL modelo robusto](https://drive.google.com/uc?export=view&id=1erQGjtuLkpz7_Qz93ne0rDzNqiGm6yfM)
+-![Metrica RL modelo robusto](https://drive.google.com/uc?export=view&id=1khg0l_XqZBP8UhZ_XmlRDh4ZT4d_1ix3)
 
 - 🔭 He finalizado este Proyecto [SQL-google-colab-Formula1](https://github.com/Esniak/SQL-google-colab-Formula1)
 
