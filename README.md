@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋 Soy Kaabil Sekali</h1>
 <h3 align="center">He finalizado mi formación: Ciencia de Datos y IA. Empezando mi carrera como Analista de Datos Junior</h3>
 
-- 🔭 He finalizado este Proyecto [EDA_amazon](https://github.com/Esniak/-EDA-Amazon-Sales)
+- 🔭 Proyecto [EDA_amazon](https://github.com/Esniak/-EDA-Amazon-Sales)
 
  <img src="https://drive.google.com/uc?export=view&id=1khg0l_XqZBP8UhZ_XmlRDh4ZT4d_1ix3" alt="Metrica RL modelo robusto" width="500"/>
 
-- 🔭 He finalizado este Proyecto [SQL-google-colab-Formula1](https://github.com/Esniak/SQL-google-colab-Formula1)
+- 🔭 Proyecto [SQL-google-colab-Formula1](https://github.com/Esniak/SQL-google-colab-Formula1)
 
 - 🌱 En este momento estoy aprendiendo **deep learning, Natural Language Processing, Open CV**
 
